@@ -10,6 +10,12 @@
 ### Aside
 [^1]: Install knex CLI globallly with *npm install knex -g*
 
+## References
+### 1. Tools
+    1. [TablePlus](https://tableplus.com/) (Free version) Database Management Tool
+    2. [DBngin](https://dbngin.com/) (Free) Database Connection Tool
+
+
 
 
 
