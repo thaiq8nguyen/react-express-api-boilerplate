@@ -12,8 +12,9 @@
 
 ## References
 ### 1. Tools
-    1. [TablePlus](https://tableplus.com/) (Free version) Database Management Tool
-    2. [DBngin](https://dbngin.com/) (Free) Database Connection Tool
+1. [TablePlus](https://tableplus.com/) (Free version) Database Management Tool
+2. [DBngin](https://dbngin.com/) (Free) Database Connection Tool
+
 
 
 
